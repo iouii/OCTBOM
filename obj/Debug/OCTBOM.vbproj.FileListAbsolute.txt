@@ -1,0 +1,43 @@
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe.config
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\bin\Debug\OCTBOM.pdb
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\bin\Debug\OCTBOM.xml
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.frmPrintBom.resources
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.Resources.resources
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbproj.GenerateResource.Cache
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.exe
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.xml
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.pdb
+E:\TestVBa\Vb .net\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbprojResolveAssemblyReference.cache
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe.config
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\bin\Debug\OCTBOM.pdb
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\bin\Debug\OCTBOM.xml
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\bin\Debug\QRCoder.dll
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbprojResolveAssemblyReference.cache
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\Interop.ADODB.dll
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\Interop.STROKESCRIBECLSLib.dll
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\Interop.STROKESCRIBELib.dll
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbproj.ResolveComReference.cache
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.frmPrintBom.resources
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.Resources.resources
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbproj.GenerateResource.Cache
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.exe
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.xml
+C:\Users\p-boonhor\Desktop\OCTBOM\OCTBOM\obj\Debug\OCTBOM.pdb
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe.config
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\Interop.ADODB.dll
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\Interop.STROKESCRIBECLSLib.dll
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\Interop.STROKESCRIBELib.dll
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbproj.ResolveComReference.cache
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.exe
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.xml
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.pdb
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\bin\Debug\OCTBOM.exe
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\bin\Debug\OCTBOM.pdb
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\bin\Debug\OCTBOM.xml
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\bin\Debug\QRCoder.dll
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbprojResolveAssemblyReference.cache
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.frmPrintBom.resources
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.Resources.resources
+C:\Users\p-boonhor\Desktop\OCT\OCTBOM\OCTBOM\obj\Debug\OCTBOM.vbproj.GenerateResource.Cache
